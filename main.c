@@ -7,3 +7,5 @@ int main(int argc, char **argv) {
     printf("Your name is %s.\n", name);
     return 0;
 }
+
+/* Nikitina */
